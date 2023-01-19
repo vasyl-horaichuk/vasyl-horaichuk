@@ -1,6 +1,6 @@
-<h1>I'm a Developer 💻</h1>
+<h1>Hi there, I'm Vasyl 👋</h1>
 
-### Hi there, I'm Vasyl 👋
+### I'm a Junior Full Stack Developer 💻
 
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
