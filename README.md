@@ -1,4 +1,4 @@
-<h1>This «thing» is under construction... 👨‍🎨</h1>
+<h1>I'm a Developer 💻</h1>
 
 ### Hi there, I'm Vasyl 👋
 
