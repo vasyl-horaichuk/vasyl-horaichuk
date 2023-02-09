@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me: **vg.createam@gmail.com**
-- ⚡ Fun fact: **I love what I do - code and help people learn coding**
+- ⚡ Fun fact: **I love what I do - code and learn coding**
 
 ### My stack
 
